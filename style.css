@@ -1,0 +1,22 @@
+p{
+    background-color: aqua;
+}
+::placeholder{
+    color: black;
+    background-color: rgb(112, 207, 83);
+}
+article p{
+    background-color: blue;
+}
+* {
+    margin: 0%;
+    padding: auto;
+    bottom: unset;
+    text-align: center;
+}
+table td{
+    text-align: center;
+}
+img{
+    align-items: inherit;
+}
